@@ -10,7 +10,6 @@
   "author": "jinnychen",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "clarifai": "^2.9.0",
@@ -21,6 +20,7 @@
     "version": "^0.1.2"
   },
   "devDependencies": {
+    "mime": "^2.4.4",
     "nodemon": "^1.18.10"
   }
 }
