@@ -1,8 +1,8 @@
 # Face-Recognize-api
 
-Face Recognize is a project that provide the function of recognizing human face in a picture. Just input an image url then it will recognize it for you. This repo is the backend part of the project, using Express.js and Node.js to build application server.
+Face Recognize is a project that provide the function of recognizing human face in a picture. Just input an **image url** then it will recognize it for you. This repo is the backend part of the project, using Express.js and Node.js to build application server.
 
-The app is already deployed on Heroku, you can view the live demo here: **[face-recognize](https://face-recognize.herokuapp.com)**.
+The app is already deployed on Heroku, you can view the live demo here: **[face-recognize-app](https://face-recognize-app.herokuapp.com)**.
 > Notes: this project is under optimizing and it is rrecommended not to use vital personal information to register or communicate with the database.
 
 ## Getting Started
